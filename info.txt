@@ -1,4 +1,4 @@
 Hello
-my name is karan
-Am working as Devops engineer
+my name is karthik
+Am working as AWS Engineer
 Happy to learn!!
